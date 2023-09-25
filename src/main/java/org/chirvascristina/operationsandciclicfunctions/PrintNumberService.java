@@ -30,5 +30,6 @@ public class PrintNumberService {
                  System.out.println("[], ");
              }
          }
+
     }
 }
